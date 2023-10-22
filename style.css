@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+  }
+  .container {
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 1px solid #56d2e3;
+  }
+  input {
+    margin: 10px;
+    width: 200px;
+    height: 30px;
+    font-size: 16px;
+    padding: 5px;
+  }
+  button {
+    width: 100px;
+    height: 30px;
+    font-size: 16px;
+    background-color: #ea2828;
+    color: #f2ecec;
+    cursor: pointer;
+  }
+  #reversed-string {
+    font-size: 16px;
+    margin-top: 10px;
+  }
